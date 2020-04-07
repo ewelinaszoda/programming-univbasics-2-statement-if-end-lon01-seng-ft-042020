@@ -1,7 +1,7 @@
 # Write your solution here
 
-if (current second )
+if true
   puts "Even!"
-  elsif (current second == odd n)
+  else 
   puts "Odd!"
 end 
