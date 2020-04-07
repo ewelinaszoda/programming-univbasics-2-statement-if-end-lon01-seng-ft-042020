@@ -1,8 +1,7 @@
 # Write your solution here
 
-run_code_inside = false
-puts "Code before if...end"
-if run_code_inside
-  puts "code inside"
-end
-puts "Code after if...end"
+if (current second )
+  puts "Even!"
+  elsif (current second == odd n)
+  puts "Odd!"
+end 
